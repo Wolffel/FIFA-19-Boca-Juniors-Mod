@@ -21,7 +21,7 @@ http://www.mediafire.com/file/d2lzl1r57482adw/DBMaster_15.rar
 Steps to install the mod:
 1.	Download Frosty manager from their website: https://frostytoolsuitedev.gitlab.io/downloads.html.
 2.	Install the mod manager (you can download also the editor if you want to make your own mods).
-3.	Download now the FIFA 19 Boca Juniors mod from this repository. (clone or download green button in this page).
+3.	Download now the FIFA 19 Boca Juniors mod from this repository. (clone or download green button in this page or go to releases and download the .rar file).
 4.	Open the mod manager folder, then execute the frosty mod manager.exe
 5.	You will have a new window with the name of the mod manager and version. Search under the window a tab that says import mods.
 6.	Select the .rar file that you have downloaded (don't extract the mod, just select the .rar and import the mod).
