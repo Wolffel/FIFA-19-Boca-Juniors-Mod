@@ -1,6 +1,8 @@
 # Fifa-19-Boca-Juniors-Mod
 Fifa 19 Boca Juniors Mod
 
+Only tested with the original version of the game (not CPY or other cracked versions).
+
 Steps to install the mod:
 
 1. Download Frosty manager from their website: https://frostytoolsuitedev.gitlab.io/downloads.html.
