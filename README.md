@@ -2,7 +2,7 @@
 
 FIFA 19 Boca Juniors Mod
 
-Only tested with the original version of the game (not CPY or other cracked versions). The real name of Boca Juniors will appear in Spanish, castellano and English USA languages.
+Only tested with the original version of the game (not CPY or other cracked versions). The real name of Boca Juniors will appear in Spanish Latino, Castellano and English USA languages.
 
 You will need to edit your own database language by DB master with frosty editor. There is a tutorial here: https://www.youtube.com/watch?v=XTkMg2U5D2I (It's into German but you just need to follow his steps).
 
