@@ -1,5 +1,5 @@
 # Fifa-19-Boca-Juniors-Mod
-Fifa 19 Boca Juniors 
+Fifa 19 Boca Juniors Mod
 
 Steps to install the mod:
 
