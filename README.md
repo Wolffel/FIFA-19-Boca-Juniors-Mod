@@ -8,6 +8,8 @@ You will need to edit your own database language by DB master with frosty editor
 https://www.youtube.com/watch?v=XTkMg2U5D2I
 (It's into german but you just need to follow his steps).
 
+If you want you can download DB master from this link (it works for fifa 19 databases): http://www.mediafire.com/file/d2lzl1r57482adw/DBMaster_15.rar
+
 Steps to install the mod:
 
 1. Download Frosty manager from their website: https://frostytoolsuitedev.gitlab.io/downloads.html.
