@@ -24,6 +24,7 @@ Steps to install the mod:
 3.	Download now the FIFA 19 Boca Juniors mod from this repository. (clone or download green button in this page or go to releases and download the .rar file).
 4.	Open the mod manager folder, then execute the frosty mod manager.exe
 5.	You will have a new window with the name of the mod manager and version. Search under the window a tab that says import mods.
-6.	Select the .rar file that you have downloaded (don't extract the mod, just select the .rar and import the mod).
+6.	Select the .rar file that you have downloaded (don't extract the mod, just select the .rar and import the mod)(if you download
+this mod by the release tab just import the .fbmod archive in the frosty mod manager).
 7.	If everything was correct you will see the emblem of Boca Juniors and your next step will click on the launch option.
 8.	Enjoy the mod!
